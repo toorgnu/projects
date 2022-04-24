@@ -20,7 +20,103 @@
         "links": [
             {
                 "filters": {},
-                "link_id": "7ad9f3e5-822e-46b5-ab7d-46e227cb30c4",
+                "link_id": "a7efd9ea-9525-4bf5-90f7-a65907e328b5",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 1,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "ether2",
+                            "x": -53,
+                            "y": 26
+                        },
+                        "node_id": "c4a43f8e-89b8-4ef8-90f9-81a2332759fb",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "ether1",
+                            "x": 69,
+                            "y": -5
+                        },
+                        "node_id": "856be5f9-117d-4f99-bdc0-0a4b78748bd6",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "db2c098a-6dfa-43de-8573-de910d4cebe3",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 2,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "ether3",
+                            "x": 36,
+                            "y": 58
+                        },
+                        "node_id": "c4a43f8e-89b8-4ef8-90f9-81a2332759fb",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "ether1",
+                            "x": 36,
+                            "y": -28
+                        },
+                        "node_id": "86505da6-dcb0-4cc7-98ed-9921f3db883b",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "dbc3edaf-44c3-4c3a-b6b6-2004b981d612",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 3,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "ether4",
+                            "x": 73,
+                            "y": 25
+                        },
+                        "node_id": "c4a43f8e-89b8-4ef8-90f9-81a2332759fb",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "ether1",
+                            "x": 6,
+                            "y": -22
+                        },
+                        "node_id": "30a81d6a-d958-4d75-9e44-319dbc6aafcb",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "aa2f8847-58ac-450f-b168-04f2e124cc9e",
                 "link_style": {},
                 "nodes": [
                     {
@@ -29,7 +125,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "Bridge-Network",
-                            "x": 83,
+                            "x": 82,
                             "y": 64
                         },
                         "node_id": "bf25afa2-22dc-478e-a589-7e5c7a306edb",
@@ -41,42 +137,10 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "ether1",
-                            "x": 33,
-                            "y": -18
+                            "x": 34,
+                            "y": -27
                         },
-                        "node_id": "2264a169-6c8c-42d7-bbe3-0aa39a763cdf",
-                        "port_number": 0
-                    }
-                ],
-                "suspend": false
-            },
-            {
-                "filters": {},
-                "link_id": "b43a2618-1474-4bc3-9ec3-072ebae689ec",
-                "link_style": {},
-                "nodes": [
-                    {
-                        "adapter_number": 1,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "ether2",
-                            "x": 37,
-                            "y": 48
-                        },
-                        "node_id": "2264a169-6c8c-42d7-bbe3-0aa39a763cdf",
-                        "port_number": 0
-                    },
-                    {
-                        "adapter_number": 0,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "ether1",
-                            "x": 37,
-                            "y": -30
-                        },
-                        "node_id": "66285378-c677-4711-b968-18ad8b9f1892",
+                        "node_id": "c4a43f8e-89b8-4ef8-90f9-81a2332759fb",
                         "port_number": 0
                     }
                 ],
@@ -95,12 +159,12 @@
                 "label": {
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                    "text": "Cloud1",
-                    "x": 53,
-                    "y": -25
+                    "text": "Internet",
+                    "x": 50,
+                    "y": 20
                 },
                 "locked": false,
-                "name": "Cloud1",
+                "name": "Internet",
                 "node_id": "bf25afa2-22dc-478e-a589-7e5c7a306edb",
                 "node_type": "cloud",
                 "port_name_format": "Ethernet{0}",
@@ -113,23 +177,18 @@
                             "type": "ethernet"
                         },
                         {
-                            "name": "enp2s0",
-                            "special": false,
+                            "name": "docker0",
+                            "special": true,
                             "type": "ethernet"
                         },
                         {
-                            "name": "ipv6leakintrf0",
+                            "name": "ens18",
                             "special": false,
                             "type": "ethernet"
                         },
                         {
                             "name": "lo",
                             "special": true,
-                            "type": "ethernet"
-                        },
-                        {
-                            "name": "proton0",
-                            "special": false,
                             "type": "ethernet"
                         },
                         {
@@ -170,12 +229,12 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "R1",
-                    "x": 20,
-                    "y": 14
+                    "x": 23,
+                    "y": 16
                 },
                 "locked": false,
                 "name": "R1",
-                "node_id": "2264a169-6c8c-42d7-bbe3-0aa39a763cdf",
+                "node_id": "c4a43f8e-89b8-4ef8-90f9-81a2332759fb",
                 "node_type": "qemu",
                 "port_name_format": "ether{port1}",
                 "port_segment_size": 0,
@@ -209,7 +268,7 @@
                     "kernel_image_md5sum": null,
                     "legacy_networking": false,
                     "linked_clone": true,
-                    "mac_address": "0c:64:a1:69:00:00",
+                    "mac_address": "0c:a4:3f:8e:00:00",
                     "on_close": "power_off",
                     "options": "-nographic",
                     "platform": "x86_64",
@@ -220,7 +279,7 @@
                     "usage": "If you'd like a different sized main disk, resize the image before booting the VM for the first time.\n\nOn first boot, RouterOS is actually being installed, formatting the whole main virtual disk, before finally rebooting. That whole process may take a minute or so.\n\nThe console will become available after the installation is complete. Most Telnet/SSH clients (certainly SuperPutty) will keep retrying to connect, thus letting you know when installation is done.\n\nFrom that point on, everything about RouterOS is also true about Cloud Hosted Router, including the default credentials: Username \"admin\" and an empty password.\n\nThe primary differences between RouterOS and CHR are in support for virtual devices (this appliance comes with them being selected), and in the different license model, for which you can read more about at http://wiki.mikrotik.com/wiki/Manual:CHR."
                 },
                 "symbol": ":/symbols/classic/router.svg",
-                "template_id": "3521518d-4e76-4cd0-a71c-78ddb450d7cd",
+                "template_id": "ebe1cc6a-012e-460b-b09f-9c61d7561e15",
                 "width": 66,
                 "x": -108,
                 "y": -247,
@@ -238,12 +297,12 @@
                     "rotation": 0,
                     "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                     "text": "R2",
-                    "x": 24,
-                    "y": 12
+                    "x": 21,
+                    "y": 17
                 },
                 "locked": false,
                 "name": "R2",
-                "node_id": "66285378-c677-4711-b968-18ad8b9f1892",
+                "node_id": "856be5f9-117d-4f99-bdc0-0a4b78748bd6",
                 "node_type": "qemu",
                 "port_name_format": "ether{port1}",
                 "port_segment_size": 0,
@@ -277,7 +336,7 @@
                     "kernel_image_md5sum": null,
                     "legacy_networking": false,
                     "linked_clone": true,
-                    "mac_address": "0c:28:53:78:00:00",
+                    "mac_address": "0c:6b:e5:f9:00:00",
                     "on_close": "power_off",
                     "options": "-nographic",
                     "platform": "x86_64",
@@ -288,10 +347,146 @@
                     "usage": "If you'd like a different sized main disk, resize the image before booting the VM for the first time.\n\nOn first boot, RouterOS is actually being installed, formatting the whole main virtual disk, before finally rebooting. That whole process may take a minute or so.\n\nThe console will become available after the installation is complete. Most Telnet/SSH clients (certainly SuperPutty) will keep retrying to connect, thus letting you know when installation is done.\n\nFrom that point on, everything about RouterOS is also true about Cloud Hosted Router, including the default credentials: Username \"admin\" and an empty password.\n\nThe primary differences between RouterOS and CHR are in support for virtual devices (this appliance comes with them being selected), and in the different license model, for which you can read more about at http://wiki.mikrotik.com/wiki/Manual:CHR."
                 },
                 "symbol": ":/symbols/classic/router.svg",
-                "template_id": "3521518d-4e76-4cd0-a71c-78ddb450d7cd",
+                "template_id": "ebe1cc6a-012e-460b-b09f-9c61d7561e15",
+                "width": 66,
+                "x": -333,
+                "y": -97,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": 5005,
+                "console_auto_start": false,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": "",
+                "height": 45,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "R3",
+                    "x": 22,
+                    "y": 13
+                },
+                "locked": false,
+                "name": "R3",
+                "node_id": "86505da6-dcb0-4cc7-98ed-9921f3db883b",
+                "node_type": "qemu",
+                "port_name_format": "ether{port1}",
+                "port_segment_size": 0,
+                "properties": {
+                    "adapter_type": "virtio-net-pci",
+                    "adapters": 4,
+                    "bios_image": "",
+                    "bios_image_md5sum": null,
+                    "boot_priority": "c",
+                    "cdrom_image": "",
+                    "cdrom_image_md5sum": null,
+                    "cpu_throttling": 0,
+                    "cpus": 1,
+                    "create_config_disk": false,
+                    "hda_disk_image": "chr-6.49.1.img",
+                    "hda_disk_image_md5sum": "6c896c4c853de99f2ea77f0f4b102261",
+                    "hda_disk_interface": "virtio",
+                    "hdb_disk_image": "",
+                    "hdb_disk_image_md5sum": null,
+                    "hdb_disk_interface": "none",
+                    "hdc_disk_image": "",
+                    "hdc_disk_image_md5sum": null,
+                    "hdc_disk_interface": "none",
+                    "hdd_disk_image": "",
+                    "hdd_disk_image_md5sum": null,
+                    "hdd_disk_interface": "none",
+                    "initrd": "",
+                    "initrd_md5sum": null,
+                    "kernel_command_line": "",
+                    "kernel_image": "",
+                    "kernel_image_md5sum": null,
+                    "legacy_networking": false,
+                    "linked_clone": true,
+                    "mac_address": "0c:50:5d:a6:00:00",
+                    "on_close": "power_off",
+                    "options": "-nographic",
+                    "platform": "x86_64",
+                    "process_priority": "normal",
+                    "qemu_path": "/usr/bin/qemu-system-x86_64",
+                    "ram": 128,
+                    "replicate_network_connection_state": true,
+                    "usage": "If you'd like a different sized main disk, resize the image before booting the VM for the first time.\n\nOn first boot, RouterOS is actually being installed, formatting the whole main virtual disk, before finally rebooting. That whole process may take a minute or so.\n\nThe console will become available after the installation is complete. Most Telnet/SSH clients (certainly SuperPutty) will keep retrying to connect, thus letting you know when installation is done.\n\nFrom that point on, everything about RouterOS is also true about Cloud Hosted Router, including the default credentials: Username \"admin\" and an empty password.\n\nThe primary differences between RouterOS and CHR are in support for virtual devices (this appliance comes with them being selected), and in the different license model, for which you can read more about at http://wiki.mikrotik.com/wiki/Manual:CHR."
+                },
+                "symbol": ":/symbols/classic/router.svg",
+                "template_id": "ebe1cc6a-012e-460b-b09f-9c61d7561e15",
                 "width": 66,
                 "x": -108,
                 "y": -22,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": 5007,
+                "console_auto_start": false,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": "",
+                "height": 45,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "R4",
+                    "x": 23,
+                    "y": 16
+                },
+                "locked": false,
+                "name": "R4",
+                "node_id": "30a81d6a-d958-4d75-9e44-319dbc6aafcb",
+                "node_type": "qemu",
+                "port_name_format": "ether{port1}",
+                "port_segment_size": 0,
+                "properties": {
+                    "adapter_type": "virtio-net-pci",
+                    "adapters": 4,
+                    "bios_image": "",
+                    "bios_image_md5sum": null,
+                    "boot_priority": "c",
+                    "cdrom_image": "",
+                    "cdrom_image_md5sum": null,
+                    "cpu_throttling": 0,
+                    "cpus": 1,
+                    "create_config_disk": false,
+                    "hda_disk_image": "chr-6.49.1.img",
+                    "hda_disk_image_md5sum": "6c896c4c853de99f2ea77f0f4b102261",
+                    "hda_disk_interface": "virtio",
+                    "hdb_disk_image": "",
+                    "hdb_disk_image_md5sum": null,
+                    "hdb_disk_interface": "none",
+                    "hdc_disk_image": "",
+                    "hdc_disk_image_md5sum": null,
+                    "hdc_disk_interface": "none",
+                    "hdd_disk_image": "",
+                    "hdd_disk_image_md5sum": null,
+                    "hdd_disk_interface": "none",
+                    "initrd": "",
+                    "initrd_md5sum": null,
+                    "kernel_command_line": "",
+                    "kernel_image": "",
+                    "kernel_image_md5sum": null,
+                    "legacy_networking": false,
+                    "linked_clone": true,
+                    "mac_address": "0c:a8:1d:6a:00:00",
+                    "on_close": "power_off",
+                    "options": "-nographic",
+                    "platform": "x86_64",
+                    "process_priority": "normal",
+                    "qemu_path": "/usr/bin/qemu-system-x86_64",
+                    "ram": 128,
+                    "replicate_network_connection_state": true,
+                    "usage": "If you'd like a different sized main disk, resize the image before booting the VM for the first time.\n\nOn first boot, RouterOS is actually being installed, formatting the whole main virtual disk, before finally rebooting. That whole process may take a minute or so.\n\nThe console will become available after the installation is complete. Most Telnet/SSH clients (certainly SuperPutty) will keep retrying to connect, thus letting you know when installation is done.\n\nFrom that point on, everything about RouterOS is also true about Cloud Hosted Router, including the default credentials: Username \"admin\" and an empty password.\n\nThe primary differences between RouterOS and CHR are in support for virtual devices (this appliance comes with them being selected), and in the different license model, for which you can read more about at http://wiki.mikrotik.com/wiki/Manual:CHR."
+                },
+                "symbol": ":/symbols/classic/router.svg",
+                "template_id": "ebe1cc6a-012e-460b-b09f-9c61d7561e15",
+                "width": 66,
+                "x": 117,
+                "y": -97,
                 "z": 1
             }
         ]
@@ -299,5 +494,5 @@
     "type": "topology",
     "variables": null,
     "version": "2.2.31",
-    "zoom": 100
+    "zoom": 119
 }

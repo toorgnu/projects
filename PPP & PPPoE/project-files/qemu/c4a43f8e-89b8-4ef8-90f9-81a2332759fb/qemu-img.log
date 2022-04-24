@@ -1,0 +1,1 @@
+Formatting '/home/toor/GNS3/projects/PPP & PPPoE/project-files/qemu/c4a43f8e-89b8-4ef8-90f9-81a2332759fb/hda_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=67108864 backing_file=/home/toor/GNS3/images/QEMU/chr-6.49.1.img backing_fmt=raw lazy_refcounts=off refcount_bits=16
