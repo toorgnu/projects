@@ -1,1 +1,1 @@
-Formatting '/home/toor/GNS3/projects/PPP & PPPoE/project-files/qemu/86505da6-dcb0-4cc7-98ed-9921f3db883b/hda_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=67108864 backing_file=/home/toor/GNS3/images/QEMU/chr-6.49.1.img backing_fmt=raw lazy_refcounts=off refcount_bits=16
+qemu-img: This image format does not support checks
