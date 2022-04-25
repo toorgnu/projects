@@ -4,3 +4,6 @@ UDP tunnel connecting from local port 10013 to IPv4 address 127.0.0.1 on port 10
 UDP tunnel connecting from local port 10011 to IPv4 address 127.0.0.1 on port 10010
 Source NIO listener thread for QEMU-72178652-1076-4ae2-adb7-8be09de990d7-0 has started
 Destination NIO listener thread for QEMU-72178652-1076-4ae2-adb7-8be09de990d7-0 has started
+Hypervisor: closing control sockets.
+Hypervisor: closing remote client connections.
+Hypervisor: stopped.
