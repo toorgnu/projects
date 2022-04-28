@@ -1,1 +1,1 @@
-Formatting '/home/toorgnu/GNS3/projects/28-📗MikroTik MTCNA - L2TP/project-files/qemu/c92eaba2-fb35-4b8c-8d59-9b1261e5169c/hda_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=67108864 backing_file=/home/toorgnu/GNS3/images/QEMU/chr-6.49.1.img backing_fmt=raw lazy_refcounts=off refcount_bits=16
+qemu-img: This image format does not support checks
