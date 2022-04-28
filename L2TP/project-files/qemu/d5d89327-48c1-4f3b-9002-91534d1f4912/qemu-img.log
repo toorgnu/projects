@@ -1,0 +1,1 @@
+Formatting '/home/toorgnu/GNS3/projects/28-📗MikroTik MTCNA - L2TP/project-files/qemu/d5d89327-48c1-4f3b-9002-91534d1f4912/hda_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=67108864 backing_file=/home/toorgnu/GNS3/images/QEMU/chr-6.49.1.img backing_fmt=raw lazy_refcounts=off refcount_bits=16
