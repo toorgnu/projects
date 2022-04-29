@@ -1,0 +1,1 @@
+Formatting '/home/toorgnu/GNS3/projects/SSTP/project-files/qemu/b314a91f-2cda-4885-a3ea-a6660b8a2ae8/hda_disk.qcow2', fmt=qcow2 cluster_size=65536 extended_l2=off compression_type=zlib size=67108864 backing_file=/home/toorgnu/GNS3/images/QEMU/chr-6.49.1.img backing_fmt=raw lazy_refcounts=off refcount_bits=16
