@@ -10,3 +10,4 @@ Apr 29 06:19:38.592 HYPERVISOR: exec_cmd: nio create_udp udp-bcafe550-0a47-4cc6-
 Apr 29 06:19:38.592 HYPERVISOR: exec_cmd: nio_bridge add_nio Hub1 udp-bcafe550-0a47-4cc6-868b-ad828e2f5f2b 
 Apr 29 06:20:30.477 HYPERVISOR: exec_cmd: nio create_udp udp-a97d8b91-3ffc-4646-900d-e2809ba4bfe2 10024 127.0.0.1 10025 
 Apr 29 06:20:30.477 HYPERVISOR: exec_cmd: nio_bridge add_nio Hub1 udp-a97d8b91-3ffc-4646-900d-e2809ba4bfe2 
+Apr 29 06:50:48.758 HYPERVISOR: exec_cmd: nio_bridge delete Hub1 
